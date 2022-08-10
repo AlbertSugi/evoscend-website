@@ -997,8 +997,7 @@ section {
 #assembly {
   background: url("../img/services/assembly.jpg") center right  ;
   background-size: cover;
-  /* hacky fix to bug 80px to 68px */
-  padding: 68px 20px;
+  padding: 80px 20px;
   position: relative;
   
 }
